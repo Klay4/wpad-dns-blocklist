@@ -1,0 +1,2 @@
+! Filter that blocks all the wpad DNS requests
+||wpad.*^
